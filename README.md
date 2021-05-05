@@ -11,6 +11,6 @@
  
 
 ## More Information
-   To change the data, details or host/server names, edit and change the code. This will be updated to input the details on command.
+   To change the data, details or host/server names, edit and change the code. This will be updated to be able to input the details on command.
    
    The packets for this transaction can be viewed in Wireshark.
