@@ -4,7 +4,7 @@
 
   1. Download this repository
   2. Open two command prompts / terminals
-  3. Open the directory of this repository. 
+  3. Open the directory of this repository on both terminals. 
   4. In the first command prompt, copy and paste the statement `java -cp SMTP.jar SMTP.Server` and run it
   5. In the second command prompt, copy and paste the statement `java -cp SMTP.jar SMTP.Client` and run it
  
